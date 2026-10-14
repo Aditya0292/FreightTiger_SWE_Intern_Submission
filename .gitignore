@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Submission zips
+*.zip
+
+# Case study brief PDFs (proprietary company prompts)
+FreightTiger_Intern_CaseStudy.pdf
+FreightTiger_SWE_Intern_AI_Data_JD_.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
